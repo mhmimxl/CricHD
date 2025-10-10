@@ -4,63 +4,63 @@
 #VERSION: 1.0.0
 #DEVELOPER: @sultanarabi 161 —  credit: Toufik bro@
 #COUNTRY: Bangladesh
-#LAST-UPDATE-UTC: 2025-10-10T17:58:27.387848+00:00
-#LAST-UPDATE-BD: 2025-10-10 17:58:27 UTC
+#LAST-UPDATE-UTC: 2025-10-10T18:33:06.946716+00:00
+#LAST-UPDATE-BD: 2025-10-10 18:33:06 UTC
 #TOTAL-CHANNELS: 28
 
 #EXTINF:-1 tvg-id="ptvpk" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/20-by-xfireflix.png", PTV Sports
-https://d15.epicquesthero.com:999/hls/ptvpk.m3u8?md5=y5mUAvPNnm4PHHj-ocBMkQ&expires=1760126274
+https://d15.epicquesthero.com:999/hls/ptvpk.m3u8?md5=aFRtvRsg-TsbXzTOpwloyg&expires=1760128353
 #EXTINF:-1 tvg-id="sonyten1" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1000173192-modified.png", Tony Sports 1
-https://d15.epicquesthero.com:999/hls/ten1hd.m3u8?md5=a380qZyqFCWoNN07gAdYKw&expires=1760126274
+https://d15.epicquesthero.com:999/hls/ten1hd.m3u8?md5=uHV3wa03XmL3eW-jVbG9Mw&expires=1760128353
 #EXTINF:-1 tvg-id="willowusa" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/38-by-xfireflix.png", Willow Cricket
-https://d15.epicquesthero.com:999/hls/willowusa.m3u8?md5=lx87IC-OUScgLI-kQbM1Vw&expires=1760126274
+https://d15.epicquesthero.com:999/hls/willowusa.m3u8?md5=G7OsWMQ6g43Dtj-0lqS7JQ&expires=1760128353
 #EXTINF:-1 tvg-id="tensp" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/10-by-xfireflix.png", Ten Sports PK
-https://d15.epicquesthero.com:999/hls/tenspk.m3u8?md5=anXGv7u01y8w4kl4q5kLww&expires=1760126274
+https://d15.epicquesthero.com:999/hls/tenspk.m3u8?md5=cpgOGreX0A7ZolcjD1rGDg&expires=1760128354
 #EXTINF:-1 tvg-id="asportshd" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/12-by-xfireflix.png", A Sports HD
-https://d15.epicquesthero.com:999/hls/asportshd.m3u8?md5=PXUBm9Nx_tJe3ijB1Hk13g&expires=1760126274
+https://d15.epicquesthero.com:999/hls/asportshd.m3u8?md5=4Jr39uBp2Io6bAolkv8m2g&expires=1760128354
 #EXTINF:-1 tvg-id="tonymax" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1000173192-modified.png", Tony Sports 3
-https://d15.epicquesthero.com:999/hls/sonyespnind.m3u8?md5=vUNHHts8yMfAHBjq9dph1Q&expires=1760126274
+https://d15.epicquesthero.com:999/hls/sonyespnind.m3u8?md5=XPd_sk-LjimaktPEhpGYtw&expires=1760128353
 #EXTINF:-1 tvg-id="sscricket" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/34-by-xfireflix.png", Super Cricket
-https://d15.epicquesthero.com:999/hls/supercricket.m3u8?md5=y1Nv1soAaVRuQTU0YLJeYg&expires=1760126274
+https://d15.epicquesthero.com:999/hls/supercricket.m3u8?md5=72N7qRw_vTn507Wx5ZP20g&expires=1760128353
 #EXTINF:-1 tvg-id="skys2" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/9-by-xfireflix.png", Sky Sports Cricket
-https://d15.epicquesthero.com:999/hls/skyscric.m3u8?md5=ukcGyAP4Bvgx-KomEWk_nQ&expires=1760126274
+https://d15.epicquesthero.com:999/hls/skyscric.m3u8?md5=YGCC54gDLUIpgSGf8WTUng&expires=1760128353
 #EXTINF:-1 tvg-id="btsp4" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png", BT Sports 4
-https://d15.epicquesthero.com:999/hls/bbtespn.m3u8?md5=vH3REmd49okN69_ub5MfBA&expires=1760126274
+https://d15.epicquesthero.com:999/hls/bbtespn.m3u8?md5=TAFi7ma9gLYNCEboL-dkDg&expires=1760128353
 #EXTINF:-1 tvg-id="btsp3" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png", BT Sports 3
-https://d15.epicquesthero.com:999/hls/bbtsp3.m3u8?md5=TStKqnqouyGMkPkXE8X04A&expires=1760126274
+https://d15.epicquesthero.com:999/hls/bbtsp3.m3u8?md5=mihmyNGDPyaTwhQLdNLNQg&expires=1760128353
 #EXTINF:-1 tvg-id="btsp1" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png", BT Sports 1
-https://d15.epicquesthero.com:999/hls/bbtsp1.m3u8?md5=7c0EOdW4riSt6IrxSJdSrQ&expires=1760126274
+https://d15.epicquesthero.com:999/hls/bbtsp1.m3u8?md5=PWUWpD_lk7hLFzW8dUvw_w&expires=1760128354
 #EXTINF:-1 tvg-id="btsp2" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png", BT Sports 2
-https://d15.epicquesthero.com:999/hls/bbtsp2.m3u8?md5=DDRHPQyPNnvW7owhuGulLw&expires=1760126275
+https://d15.epicquesthero.com:999/hls/bbtsp2.m3u8?md5=bCf33QPiqk2qTZ8QfL9LyA&expires=1760128353
 #EXTINF:-1 tvg-id="fox501" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/6-by-xfireflix.png", FOX Cricket 501
-https://d15.epicquesthero.com:999/hls/fox501.m3u8?md5=mUopAmOrCZC0rJ2PGhTqIw&expires=1760126275
+https://d15.epicquesthero.com:999/hls/fox501.m3u8?md5=H2ScPas7XbSwNwZLdTbz3A&expires=1760128354
 #EXTINF:-1 tvg-id="skys1" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/18-by-xfireflix.png", Sky Sports Main Event
-https://d15.epicquesthero.com:999/hls/skysme.m3u8?md5=aKqbW0dBEEvQbKBsZzyLrA&expires=1760126274
+https://d15.epicquesthero.com:999/hls/skysme.m3u8?md5=VdCg4dBpRnhcbG1CIvI-_Q&expires=1760128353
 #EXTINF:-1 tvg-id="viasp1" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/31-by-xfireflix.png", Via Play Sports 1
-https://d15.epicquesthero.com:999/hls/premieruk.m3u8?md5=A5Bx9O5hInWaJzXBuGgHSw&expires=1760126274
+https://d15.epicquesthero.com:999/hls/premieruk.m3u8?md5=1DjOW5FcZ2ZlFOgQLP6X4A&expires=1760128353
 #EXTINF:-1 tvg-id="btsp5" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png", BT Sports 5
-https://d15.epicquesthero.com:999/hls/hdchnl10.m3u8?md5=hita0z5hLHKyz1Y59YFDZw&expires=1760126275
+https://d15.epicquesthero.com:999/hls/hdchnl10.m3u8?md5=cgedljAv1_bWc-i2uBdz5Q&expires=1760128353
 #EXTINF:-1 tvg-id="tara" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/16-by-xfireflix.png",  Tara Sports 1
-https://d15.epicquesthero.com:999/hls/star1in.m3u8?md5=j7HqT1QHUZa62OIT9rvFNA&expires=1760126275
+https://d15.epicquesthero.com:999/hls/star1in.m3u8?md5=DrEAVRGhS9a5ozzrqs3YQA&expires=1760128353
 #EXTINF:-1 tvg-id="tara1hi" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1-by-xfireflix.png",  Tara Sports Hindi
-https://d15.epicquesthero.com:999/hls/starhindi.m3u8?md5=DXkkdI0imFobKeGNSdiGcA&expires=1760126274
+https://d15.epicquesthero.com:999/hls/starhindi.m3u8?md5=0VaSGaRMuR2xhbGfX63jXw&expires=1760128353
 #EXTINF:-1 tvg-id="sky1nz" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png",  Sky Sport 1 NZ
-https://d15.epicquesthero.com:999/hls/sky1nz.m3u8?md5=HVaTmF9ZgAqeV2NWX1Ksng&expires=1760126274
+https://d15.epicquesthero.com:999/hls/sky1nz.m3u8?md5=cOQbyUocRXhCZLHjCpuWIw&expires=1760128353
 #EXTINF:-1 tvg-id="sky2nz" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png",  Sky Sport 2 NZ
-https://d15.epicquesthero.com:999/hls/sky2nz.m3u8?md5=LXygN8iL1BmEtL1M3DJb8w&expires=1760126274
+https://d15.epicquesthero.com:999/hls/sky2nz.m3u8?md5=6uKx_PPji2DNK0c1v49b0g&expires=1760128353
 #EXTINF:-1 tvg-id="sky3nz" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png",  Sky Sport 3 NZ
-https://d15.epicquesthero.com:999/hls/sky3nz.m3u8?md5=itirX3Rdo57U8nfaSYBWuw&expires=1760126274
+https://d15.epicquesthero.com:999/hls/sky3nz.m3u8?md5=jax5Eh6L-r_qmaTcDQcPYQ&expires=1760128353
 #EXTINF:-1 tvg-id="sky4nz" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png",  Sky Sport 4 NZ
-https://d15.epicquesthero.com:999/hls/sky4nz.m3u8?md5=DpiMd0u2ZiFYNpeOXO-WSQ&expires=1760126275
+https://d15.epicquesthero.com:999/hls/sky4nz.m3u8?md5=DDFFPE4FDjGvNt0o19JASA&expires=1760128353
 #EXTINF:-1 tvg-id="sky5nz" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png",  Sky Sport 5 NZ
-https://d15.epicquesthero.com:999/hls/sky5nz.m3u8?md5=vXiBMPoAeSGuVWYyz3STzQ&expires=1760126274
+https://d15.epicquesthero.com:999/hls/sky5nz.m3u8?md5=WNmBb1Wrl4oqBcO3YIypYA&expires=1760128353
 #EXTINF:-1 tvg-id="sky6nz" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png",  Sky Sport 6 NZ
-https://d15.epicquesthero.com:999/hls/sky6nz.m3u8?md5=Rg_ah_qLMerUTUPMKbkMGw&expires=1760126274
+https://d15.epicquesthero.com:999/hls/sky6nz.m3u8?md5=PXMH6SwqdF7ZP_jjRoSeNg&expires=1760128353
 #EXTINF:-1 tvg-id="sky7nz" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png",  Sky Sport 7 NZ
-https://d15.epicquesthero.com:999/hls/sky7nz.m3u8?md5=O2EoxgliF209FRbzSLy9Hw&expires=1760126274
+https://d15.epicquesthero.com:999/hls/sky7nz.m3u8?md5=3-PsdFtYwyhsJk46u6Y8og&expires=1760128353
 #EXTINF:-1 tvg-id="sky8nz" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png",  Sky Sport 8 NZ
-https://d15.epicquesthero.com:999/hls/sky8nz.m3u8?md5=PQjXcoGMYx6I3wcGB16UvA&expires=1760126274
+https://d15.epicquesthero.com:999/hls/sky8nz.m3u8?md5=4nKvYuIc9KFWPREZ0kO85A&expires=1760128353
 #EXTINF:-1 tvg-id="laligauk" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/19-by-xfireflix.png", LaLiga UK
-https://d15.epicquesthero.com:999/hls/laligauk.m3u8?md5=P2x0fazEtQJeAAKXkX0M0w&expires=1760126274
+https://d15.epicquesthero.com:999/hls/laligauk.m3u8?md5=y4oOm-qdDj-GWhN3_QnHHg&expires=1760128353
 #EXTINF:-1 tvg-id="skysfotb" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/44-by-xfireflix.png",  Sky Sports Football
-https://d15.epicquesthero.com:999/hls/skysfott.m3u8?md5=f0qX1pL1gQdjXI_AseCMxg&expires=1760126274
+https://d15.epicquesthero.com:999/hls/skysfott.m3u8?md5=pluJCaqOmhXcVL1gCQm1SA&expires=1760128353

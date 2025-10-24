@@ -5,16 +5,16 @@
     "version": "1.0.0",
     "developer": "@sultanarabi 161 —  credit: Toufik bro@",
     "country": "Bangladesh",
-    "last_update_utc": "2025-10-24T18:47:54.235976+00:00",
-    "last_update_bd": "2025-10-24 18:47:54 UTC",
-    "total_channels": 5
+    "last_update_utc": "2025-10-24T18:57:55.977408+00:00",
+    "last_update_bd": "2025-10-24 18:57:55 UTC",
+    "total_channels": 2
   },
   "channels": [
     {
       "tvg-id": "ptvpk",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/20-by-xfireflix.png",
       "name": "PTV Sports",
-      "url": null
+      "url": "https://d6.merichunidya.com:1686/hls/ptvpk.m3u8?md5=DlkEDrMS8c1CiBQbcqHXrw&expires=1761339440"
     },
     {
       "tvg-id": "sonyten1",
@@ -26,13 +26,13 @@
       "tvg-id": "willowusa",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/38-by-xfireflix.png",
       "name": "Willow Cricket",
-      "url": "https://d2.merichunidya.com:1686/hls/willowusa.m3u8?md5=IoLGDyTfw4KdapM4sG9k5A&expires=1761338833"
+      "url": null
     },
     {
       "tvg-id": "tensp",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/10-by-xfireflix.png",
       "name": "Ten Sports PK",
-      "url": null
+      "url": "https://d4.merichunidya.com:1686/hls/tenspk.m3u8?md5=zZHuSw-olK5KqVftuKWY_g&expires=1761339441"
     },
     {
       "tvg-id": "asportshd",
@@ -122,13 +122,13 @@
       "tvg-id": "tara1hi",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1-by-xfireflix.png",
       "name": " Tara Sports Hindi",
-      "url": "https://d6.merichunidya.com:1686/hls/starhindi.m3u8?md5=_kRtrM-YxMi-ScGcpp0PrQ&expires=1761338834"
+      "url": null
     },
     {
       "tvg-id": "sky1nz",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png",
       "name": " Sky Sport 1 NZ",
-      "url": "https://d4.merichunidya.com:1686/hls/sky1nz.m3u8?md5=bDOmRjSDYJtXaWqWKkkB5g&expires=1761338833"
+      "url": null
     },
     {
       "tvg-id": "sky2nz",
@@ -146,7 +146,7 @@
       "tvg-id": "sky4nz",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png",
       "name": " Sky Sport 4 NZ",
-      "url": "https://d3.merichunidya.com:1686/hls/sky4nz.m3u8?md5=ZuSFMxS26M9k3qzJFreFDg&expires=1761338833"
+      "url": null
     },
     {
       "tvg-id": "sky5nz",
@@ -176,7 +176,7 @@
       "tvg-id": "laligauk",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/19-by-xfireflix.png",
       "name": "LaLiga UK",
-      "url": "https://d6.merichunidya.com:1686/hls/laligauk.m3u8?md5=jQzmmgPpkoc8UomEaNRF2Q&expires=1761338833"
+      "url": null
     },
     {
       "tvg-id": "skysfotb",

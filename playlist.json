@@ -5,82 +5,82 @@
     "version": "1.0.0",
     "developer": "@sultanarabi 161 —  credit: Toufik bro@",
     "country": "Bangladesh",
-    "last_update_utc": "2025-11-01T07:40:35.670751+00:00",
-    "last_update_bd": "2025-11-01 07:40:35 UTC",
-    "total_channels": 26
+    "last_update_utc": "2025-11-01T07:50:00.025072+00:00",
+    "last_update_bd": "2025-11-01 07:50:00 UTC",
+    "total_channels": 28
   },
   "channels": [
     {
       "tvg-id": "ptvpk",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/20-by-xfireflix.png",
       "name": "PTV Sports",
-      "url": "https://d12.epicquesthero.com:999/hls/ptvpk.m3u8?md5=V9n36jKjxl8i44mRuWIjwQ&expires=1761989982"
+      "url": "https://d11.epicquesthero.com:999/hls/ptvpk.m3u8?md5=aIVha2vBkAv332bMtbIb4w&expires=1761990572"
     },
     {
       "tvg-id": "sonyten1",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1000173192-modified.png",
       "name": "Tony Sports 1",
-      "url": "https://d11.epicquesthero.com:999/hls/ten1hd.m3u8?md5=DsaQCCHPIovS0VLHEDe_NQ&expires=1761989982"
+      "url": "https://d11.epicquesthero.com:999/hls/ten1hd.m3u8?md5=mS-fnqW234pcz1Ih_Oilog&expires=1761990578"
     },
     {
       "tvg-id": "willowusa",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/38-by-xfireflix.png",
       "name": "Willow Cricket",
-      "url": "https://d13.epicquesthero.com:999/hls/willowusa.m3u8?md5=5a8NnvlkB2kYfCBbj2J7Cg&expires=1761989980"
+      "url": "https://d14.epicquesthero.com:999/hls/willowusa.m3u8?md5=wa0hs6wzJ9DHVSMct6e8Rg&expires=1761990577"
     },
     {
       "tvg-id": "tensp",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/10-by-xfireflix.png",
       "name": "Ten Sports PK",
-      "url": "https://d11.epicquesthero.com:999/hls/tenspk.m3u8?md5=nrzDU50bhsRTSM8Hoe10Bw&expires=1761989981"
+      "url": "https://d11.epicquesthero.com:999/hls/tenspk.m3u8?md5=GGoymxDfo_qaOXmkZVLumQ&expires=1761990578"
     },
     {
       "tvg-id": "asportshd",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/12-by-xfireflix.png",
       "name": "A Sports HD",
-      "url": "https://d14.epicquesthero.com:999/hls/asportshd.m3u8?md5=ml1kkz3p3SZ5f7uhxhyfag&expires=1761989975"
+      "url": "https://d11.epicquesthero.com:999/hls/asportshd.m3u8?md5=E43Kh-jS5zUQ1yYnHNu69Q&expires=1761990578"
     },
     {
       "tvg-id": "tonymax",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1000173192-modified.png",
       "name": "Tony Sports 3",
-      "url": "https://d14.epicquesthero.com:999/hls/sonyespnind.m3u8?md5=eONT3RBJq_1KMqO5LE-cBg&expires=1761989982"
+      "url": "https://d14.epicquesthero.com:999/hls/sonyespnind.m3u8?md5=Q997t0Kiia1rA5iZ3iKz1A&expires=1761990578"
     },
     {
       "tvg-id": "sscricket",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/34-by-xfireflix.png",
       "name": "Super Cricket",
-      "url": "https://d11.epicquesthero.com:999/hls/supercricket.m3u8?md5=tC7vwZj6YU4mcyUcu3k6fQ&expires=1761989982"
+      "url": "https://d14.epicquesthero.com:999/hls/supercricket.m3u8?md5=gvknbdjTxLSbmeubj0RFyg&expires=1761990578"
     },
     {
       "tvg-id": "skys2",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/9-by-xfireflix.png",
       "name": "Sky Sports Cricket",
-      "url": "https://d11.epicquesthero.com:999/hls/skyscric.m3u8?md5=F7esaBoR3H6DbR9JMd23DQ&expires=1761989982"
+      "url": "https://d12.epicquesthero.com:999/hls/skyscric.m3u8?md5=ZRlw2dRwEGbYvsCoBXrpZw&expires=1761990577"
     },
     {
       "tvg-id": "btsp4",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png",
       "name": "BT Sports 4",
-      "url": "https://d11.epicquesthero.com:999/hls/bbtespn.m3u8?md5=iL9KB-LQ85lqdsBNj5-0Lw&expires=1761989983"
+      "url": "https://d12.epicquesthero.com:999/hls/bbtespn.m3u8?md5=jm5oPHViK-zJny-vkxpyYg&expires=1761990578"
     },
     {
       "tvg-id": "btsp3",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png",
       "name": "BT Sports 3",
-      "url": "https://d11.epicquesthero.com:999/hls/bbtsp3.m3u8?md5=GSBVsA9gEDrHlCG8YAjxsg&expires=1761989983"
+      "url": "https://d12.epicquesthero.com:999/hls/bbtsp3.m3u8?md5=FoSwgd3QS1gASBsDoG72Kg&expires=1761990578"
     },
     {
       "tvg-id": "btsp1",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png",
       "name": "BT Sports 1",
-      "url": "https://d14.epicquesthero.com:999/hls/bbtsp1.m3u8?md5=nLdTawU9HqpS4WYex9GSJA&expires=1761989982"
+      "url": "https://d11.epicquesthero.com:999/hls/bbtsp1.m3u8?md5=T9DwlsZ22L4x-vZekH4eMQ&expires=1761990573"
     },
     {
       "tvg-id": "btsp2",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png",
       "name": "BT Sports 2",
-      "url": "https://d14.epicquesthero.com:999/hls/bbtsp2.m3u8?md5=fcHCiVNisq488BUipFHGAA&expires=1761989983"
+      "url": "https://d11.epicquesthero.com:999/hls/bbtsp2.m3u8?md5=xKxAaeEtBjEW1_JxWfPSKw&expires=1761990579"
     },
     {
       "tvg-id": "willo2",
@@ -92,97 +92,97 @@
       "tvg-id": "fox501",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/6-by-xfireflix.png",
       "name": "FOX Cricket 501",
-      "url": "https://d15.epicquesthero.com:999/hls/fox501.m3u8?md5=IjJN_66E3v2F7VkD8eu8Bg&expires=1761989975"
+      "url": "https://d12.epicquesthero.com:999/hls/fox501.m3u8?md5=OiAVgdDsQ3-0BbL8W3G92A&expires=1761990577"
     },
     {
       "tvg-id": "skys1",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/18-by-xfireflix.png",
       "name": "Sky Sports Main Event",
-      "url": "https://d13.epicquesthero.com:999/hls/skysme.m3u8?md5=My7SRKGf2ArKn6pmdzpcJQ&expires=1761989982"
+      "url": "https://d13.epicquesthero.com:999/hls/skysme.m3u8?md5=Oyt2IAS5KlB6xusw8XGofQ&expires=1761990578"
     },
     {
       "tvg-id": "viasp1",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/31-by-xfireflix.png",
       "name": "Via Play Sports 1",
-      "url": "https://d15.epicquesthero.com:999/hls/premieruk.m3u8?md5=v9obW_1l0VzPP6YLmQLSGw&expires=1761989983"
+      "url": "https://d14.epicquesthero.com:999/hls/premieruk.m3u8?md5=BrPBEU_svF6qO1RcEu3A3A&expires=1761990577"
     },
     {
       "tvg-id": "btsp5",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png",
       "name": "BT Sports 5",
-      "url": "https://d13.epicquesthero.com:999/hls/hdchnl10.m3u8?md5=60oWrcV_e6oNlLGZJJKN4A&expires=1761989983"
+      "url": "https://d12.epicquesthero.com:999/hls/hdchnl10.m3u8?md5=-lz2nkPNcZ4INE7hS1VoqQ&expires=1761990579"
     },
     {
       "tvg-id": "tara",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/16-by-xfireflix.png",
       "name": " Tara Sports 1",
-      "url": "https://d11.epicquesthero.com:999/hls/star1in.m3u8?md5=tnvxgqxSNt5DsS5guP1kHA&expires=1761989982"
+      "url": "https://d14.epicquesthero.com:999/hls/star1in.m3u8?md5=7d9eIvTvY3XseFvP8ltNAQ&expires=1761990578"
     },
     {
       "tvg-id": "tara1hi",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1-by-xfireflix.png",
       "name": " Tara Sports Hindi",
-      "url": "https://d15.epicquesthero.com:999/hls/starhindi.m3u8?md5=bx5-ZLqgiRt1gHLagIz5Ow&expires=1761989980"
+      "url": "https://d13.epicquesthero.com:999/hls/starhindi.m3u8?md5=qyWzNpemhX7mL8TNe8tAUA&expires=1761990578"
     },
     {
       "tvg-id": "sky1nz",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png",
       "name": " Sky Sport 1 NZ",
-      "url": "https://d12.epicquesthero.com:999/hls/sky1nz.m3u8?md5=DUFHGzV8sRAee6ZvwUHzwQ&expires=1761989983"
+      "url": "https://d12.epicquesthero.com:999/hls/sky1nz.m3u8?md5=CFXSaSnPir0BSMM4EmOGNQ&expires=1761990572"
     },
     {
       "tvg-id": "sky2nz",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png",
       "name": " Sky Sport 2 NZ",
-      "url": "https://d12.epicquesthero.com:999/hls/sky2nz.m3u8?md5=III5r6q6NlXiC1rvyEq-Xw&expires=1761989983"
+      "url": "https://d12.epicquesthero.com:999/hls/sky2nz.m3u8?md5=GhsLAJPnv_7gk0hHNvQaYw&expires=1761990577"
     },
     {
       "tvg-id": "sky3nz",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png",
       "name": " Sky Sport 3 NZ",
-      "url": null
+      "url": "https://d12.epicquesthero.com:999/hls/sky3nz.m3u8?md5=vcc2eGCQf2hIEezki9q-mw&expires=1761990577"
     },
     {
       "tvg-id": "sky4nz",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png",
       "name": " Sky Sport 4 NZ",
-      "url": null
+      "url": "https://d11.epicquesthero.com:999/hls/sky4nz.m3u8?md5=TBWCj3T75sGdk7h-hQC9jg&expires=1761990578"
     },
     {
       "tvg-id": "sky5nz",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png",
       "name": " Sky Sport 5 NZ",
-      "url": "https://d12.epicquesthero.com:999/hls/sky5nz.m3u8?md5=D7dEz6EVwirjiw3LpRQcIw&expires=1761989983"
+      "url": "https://d15.epicquesthero.com:999/hls/sky5nz.m3u8?md5=r-KAs2_6HNzzEl14epilAA&expires=1761990577"
     },
     {
       "tvg-id": "sky6nz",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png",
       "name": " Sky Sport 6 NZ",
-      "url": "https://d12.epicquesthero.com:999/hls/sky6nz.m3u8?md5=5T7hzFA_yqIcz807u8bYaQ&expires=1761989982"
+      "url": "https://d11.epicquesthero.com:999/hls/sky6nz.m3u8?md5=7c2JUIy0gBVrd3KAcGIbSg&expires=1761990578"
     },
     {
       "tvg-id": "sky7nz",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png",
       "name": " Sky Sport 7 NZ",
-      "url": "https://d13.epicquesthero.com:999/hls/sky7nz.m3u8?md5=oXS7Owbs-Y3_P_p683eKag&expires=1761989983"
+      "url": "https://d14.epicquesthero.com:999/hls/sky7nz.m3u8?md5=xewAV3mUALajsNqWkblz_A&expires=1761990578"
     },
     {
       "tvg-id": "sky8nz",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png",
       "name": " Sky Sport 8 NZ",
-      "url": "https://d11.epicquesthero.com:999/hls/sky8nz.m3u8?md5=w86JDllJM3mdMb_F1mp9JA&expires=1761989983"
+      "url": "https://d14.epicquesthero.com:999/hls/sky8nz.m3u8?md5=dKqMeWv7rVHxsvJexivcew&expires=1761990578"
     },
     {
       "tvg-id": "laligauk",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/19-by-xfireflix.png",
       "name": "LaLiga UK",
-      "url": "https://d12.epicquesthero.com:999/hls/laligauk.m3u8?md5=DxY8lNIc9b1d4BXJdo9I0g&expires=1761989982"
+      "url": "https://d15.epicquesthero.com:999/hls/laligauk.m3u8?md5=dnXCPiknL_JjbkF9TdSPTA&expires=1761990577"
     },
     {
       "tvg-id": "skysfotb",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/44-by-xfireflix.png",
       "name": " Sky Sports Football",
-      "url": "https://d13.epicquesthero.com:999/hls/skysfott.m3u8?md5=DV3A_yKZeT3yzIaoLNbLsg&expires=1761989983"
+      "url": "https://d15.epicquesthero.com:999/hls/skysfott.m3u8?md5=-FjzyyJT2vbEfJZXPttCAg&expires=1761990578"
     },
     {
       "tvg-id": "hdchnl2",

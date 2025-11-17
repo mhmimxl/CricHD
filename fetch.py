@@ -10,7 +10,7 @@ M3U_FILE = "playlist.m3u"
 
 BASE_URL = os.getenv("STREAM_URL")
 
-# Metadata for comments
+# Metadata for comments 
 PROJECT_INFO = {
     "name": "CricHD Channels Playlist",
     "description": "Automatically generated CricHD playlist channels",

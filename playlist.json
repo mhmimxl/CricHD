@@ -5,8 +5,8 @@
     "version": "1.0.0",
     "developer": "@sultanarabi 161 —  credit: Toufik bro@",
     "country": "Bangladesh",
-    "last_update_utc": "2026-03-21T10:45:03.534321+00:00",
-    "last_update_bd": "2026-03-21 10:45:03 UTC",
+    "last_update_utc": "2026-03-21T11:02:27.328322+00:00",
+    "last_update_bd": "2026-03-21 11:02:27 UTC",
     "total_channels": 28
   },
   "channels": [
@@ -14,73 +14,73 @@
       "tvg-id": "ptvpk",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/20-by-xfireflix.png",
       "name": "PTV Sports",
-      "url": "https://n7.sanwalyaarpya.com:1686/hls/ptvpk.m3u8?md5=bo-7WOJTDAMxLdP3EsFWTQ&expires=1774097050"
+      "url": "https://n4.sanwalyaarpya.com:1686/hls/ptvpk.m3u8?md5=IPjgEBVCnBDKk1AvivmH1g&expires=1774098089"
     },
     {
       "tvg-id": "sonyten1",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1000173192-modified.png",
       "name": "Tony Sports 1",
-      "url": "https://n2.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=2EFMptixDl_Wi6SU7_KEGA&expires=1774097051"
+      "url": "https://n5.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=KRINj9ZVc-wzv054OzPRRg&expires=1774098088"
     },
     {
       "tvg-id": "willowusa",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/38-by-xfireflix.png",
       "name": "Willow Cricket",
-      "url": "https://n14.sanwalyaarpya.com:1686/hls/willowusa.m3u8?md5=QmsLbv_eSYQH6kTbBPBEgA&expires=1774097052"
+      "url": "https://n9.sanwalyaarpya.com:1686/hls/willowusa.m3u8?md5=dKPIKcXD8cYfD_VB7CxdDQ&expires=1774098088"
     },
     {
       "tvg-id": "tensp",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/10-by-xfireflix.png",
       "name": "Ten Sports PK",
-      "url": "https://n14.sanwalyaarpya.com:1686/hls/tenspk.m3u8?md5=WhN0_JM6o3s6o0Hh6lwHPg&expires=1774097050"
+      "url": "https://n9.sanwalyaarpya.com:1686/hls/tenspk.m3u8?md5=9kPcTbRNbnRzZ59azIci9A&expires=1774098088"
     },
     {
       "tvg-id": "asportshd",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/12-by-xfireflix.png",
       "name": "A Sports HD",
-      "url": "https://n8.sanwalyaarpya.com:1686/hls/asportshd.m3u8?md5=PC6F7tSg1b5FvL8mGFrhhQ&expires=1774097051"
+      "url": "https://n1.sanwalyaarpya.com:1686/hls/asportshd.m3u8?md5=X3HoDdAj7XssqMYJxTKBcA&expires=1774098088"
     },
     {
       "tvg-id": "tonymax",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1000173192-modified.png",
       "name": "Tony Sports 3",
-      "url": "https://n6.sanwalyaarpya.com:1686/hls/sonyespnind.m3u8?md5=BvohyGwR74BmHs6PtVAZGg&expires=1774097051"
+      "url": "https://n5.sanwalyaarpya.com:1686/hls/sonyespnind.m3u8?md5=IA6R5R1III7V6qB19Nem6A&expires=1774098089"
     },
     {
       "tvg-id": "sscricket",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/34-by-xfireflix.png",
       "name": "Super Cricket",
-      "url": "https://n6.sanwalyaarpya.com:1686/hls/supercricket.m3u8?md5=vK-uI8jVR4AAyUBmpW6crQ&expires=1774097052"
+      "url": "https://n5.sanwalyaarpya.com:1686/hls/supercricket.m3u8?md5=FV21b1cD9kcgUQRlIbtQ9A&expires=1774098090"
     },
     {
       "tvg-id": "skys2",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/9-by-xfireflix.png",
       "name": "Sky Sports Cricket",
-      "url": "https://n9.sanwalyaarpya.com:1686/hls/skyscric.m3u8?md5=xippXG-qafnAFx7_8X1JBg&expires=1774097051"
+      "url": "https://n6.sanwalyaarpya.com:1686/hls/skyscric.m3u8?md5=AXI9SYuBb2LNEyYMNI0kDA&expires=1774098089"
     },
     {
       "tvg-id": "btsp4",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png",
       "name": "BT Sports 4",
-      "url": "https://n7.sanwalyaarpya.com:1686/hls/bbtespn.m3u8?md5=pdrfBsJKzJUkTe5whURbwg&expires=1774097051"
+      "url": "https://n4.sanwalyaarpya.com:1686/hls/bbtespn.m3u8?md5=emDeiHF_0nR5YKKKPB9umQ&expires=1774098089"
     },
     {
       "tvg-id": "btsp3",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png",
       "name": "BT Sports 3",
-      "url": "https://n6.sanwalyaarpya.com:1686/hls/bbtsp3.m3u8?md5=G1FcGIk61mhgdjD8Zhv8zQ&expires=1774097050"
+      "url": "https://n4.sanwalyaarpya.com:1686/hls/bbtsp3.m3u8?md5=vNupjDmdQp2BmtOZlHhTZw&expires=1774098090"
     },
     {
       "tvg-id": "btsp1",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png",
       "name": "BT Sports 1",
-      "url": "https://n9.sanwalyaarpya.com:1686/hls/bbtsp1.m3u8?md5=8reNWMa8eEmFnGhXegbqaQ&expires=1774097051"
+      "url": "https://n14.sanwalyaarpya.com:1686/hls/bbtsp1.m3u8?md5=iVI9e0PdGMwbjMmWv4mbZg&expires=1774098088"
     },
     {
       "tvg-id": "btsp2",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png",
       "name": "BT Sports 2",
-      "url": "https://n2.sanwalyaarpya.com:1686/hls/bbtsp2.m3u8?md5=RDOzTVUC6tQwU1handuARA&expires=1774097050"
+      "url": "https://n7.sanwalyaarpya.com:1686/hls/bbtsp2.m3u8?md5=2rkD61JHDA7lkUKoZI7-sQ&expires=1774098089"
     },
     {
       "tvg-id": "willo2",
@@ -92,97 +92,97 @@
       "tvg-id": "fox501",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/6-by-xfireflix.png",
       "name": "FOX Cricket 501",
-      "url": "https://n7.sanwalyaarpya.com:1686/hls/fox501.m3u8?md5=LStSVeomwbtkGr1lff9kkQ&expires=1774097050"
+      "url": "https://n3.sanwalyaarpya.com:1686/hls/fox501.m3u8?md5=f067X70CbbeI6Z8MyogIGg&expires=1774098089"
     },
     {
       "tvg-id": "skys1",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/18-by-xfireflix.png",
       "name": "Sky Sports Main Event",
-      "url": "https://n8.sanwalyaarpya.com:1686/hls/skysme.m3u8?md5=a3VtESgA1lJJZ-e9njN5Sw&expires=1774097051"
+      "url": "https://n3.sanwalyaarpya.com:1686/hls/skysme.m3u8?md5=j29NwzXGjw_PX9twCXYkZg&expires=1774098090"
     },
     {
       "tvg-id": "viasp1",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/31-by-xfireflix.png",
       "name": "Via Play Sports 1",
-      "url": "https://n14.sanwalyaarpya.com:1686/hls/premieruk.m3u8?md5=uy6vta_6EWJrudQEZVBu9Q&expires=1774097051"
+      "url": "https://n5.sanwalyaarpya.com:1686/hls/premieruk.m3u8?md5=Skc0onGS8SigP-IT5H3TBQ&expires=1774098088"
     },
     {
       "tvg-id": "btsp5",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png",
       "name": "BT Sports 5",
-      "url": "https://n9.sanwalyaarpya.com:1686/hls/hdchnl10.m3u8?md5=EX_BuZNDgr5yWUm_Dx0-9A&expires=1774097051"
+      "url": "https://n6.sanwalyaarpya.com:1686/hls/hdchnl10.m3u8?md5=dCJmBYKC417p4mU2J_4cjg&expires=1774098091"
     },
     {
       "tvg-id": "tara",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/16-by-xfireflix.png",
       "name": " Tara Sports 1",
-      "url": "https://n14.sanwalyaarpya.com:1686/hls/star1in.m3u8?md5=fqOenCQyLAhFRhSGqxiUyg&expires=1774097050"
+      "url": "https://n4.sanwalyaarpya.com:1686/hls/star1in.m3u8?md5=_SbnU0mYYaaCag2tiAhSwg&expires=1774098090"
     },
     {
       "tvg-id": "tara1hi",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1-by-xfireflix.png",
       "name": " Tara Sports Hindi",
-      "url": "https://n7.sanwalyaarpya.com:1686/hls/starhindi.m3u8?md5=FngRr0QuE0DyS8-Y-WENVg&expires=1774097050"
+      "url": "https://n5.sanwalyaarpya.com:1686/hls/starhindi.m3u8?md5=fwCNcFmKrwsPqcJ8Os8_hg&expires=1774098089"
     },
     {
       "tvg-id": "sky1nz",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png",
       "name": " Sky Sport 1 NZ",
-      "url": "https://n4.sanwalyaarpya.com:1686/hls/sky1nz.m3u8?md5=7qnkrdFSeqzQD0oVC6cBTQ&expires=1774097052"
+      "url": "https://n8.sanwalyaarpya.com:1686/hls/sky1nz.m3u8?md5=jtMPPlJJuOhacINJziVn-Q&expires=1774098091"
     },
     {
       "tvg-id": "sky2nz",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png",
       "name": " Sky Sport 2 NZ",
-      "url": "https://n7.sanwalyaarpya.com:1686/hls/sky2nz.m3u8?md5=rGmjou14CuB-mQ4P4jsFAA&expires=1774097051"
+      "url": "https://n3.sanwalyaarpya.com:1686/hls/sky2nz.m3u8?md5=xFdIEeQSbuaZfIoYVSDgjw&expires=1774098090"
     },
     {
       "tvg-id": "sky3nz",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png",
       "name": " Sky Sport 3 NZ",
-      "url": "https://n6.sanwalyaarpya.com:1686/hls/sky3nz.m3u8?md5=RX-rkXZnRgXYJHAZjKJLmQ&expires=1774097050"
+      "url": "https://n4.sanwalyaarpya.com:1686/hls/sky3nz.m3u8?md5=zKT7t5VSdB34oHAbG6BitQ&expires=1774098090"
     },
     {
       "tvg-id": "sky4nz",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png",
       "name": " Sky Sport 4 NZ",
-      "url": "https://n9.sanwalyaarpya.com:1686/hls/sky4nz.m3u8?md5=TfEgcUGW1cgcLYKR8xnFAg&expires=1774097051"
+      "url": "https://n6.sanwalyaarpya.com:1686/hls/sky4nz.m3u8?md5=6jacz6wcBqxlxVoONX-xJQ&expires=1774098089"
     },
     {
       "tvg-id": "sky5nz",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png",
       "name": " Sky Sport 5 NZ",
-      "url": "https://n4.sanwalyaarpya.com:1686/hls/sky5nz.m3u8?md5=OcXRj54vaZhlc0z9nePEDg&expires=1774097050"
+      "url": "https://n4.sanwalyaarpya.com:1686/hls/sky5nz.m3u8?md5=m_wmctDPAoGpvW5Dhps2pg&expires=1774098089"
     },
     {
       "tvg-id": "sky6nz",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png",
       "name": " Sky Sport 6 NZ",
-      "url": "https://n5.sanwalyaarpya.com:1686/hls/sky6nz.m3u8?md5=XP4ec0L_b4iIf6cHRGWx2g&expires=1774097050"
+      "url": "https://n7.sanwalyaarpya.com:1686/hls/sky6nz.m3u8?md5=Vbdysa_0McWVAiJPW4d_Dw&expires=1774098091"
     },
     {
       "tvg-id": "sky7nz",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png",
       "name": " Sky Sport 7 NZ",
-      "url": "https://n7.sanwalyaarpya.com:1686/hls/sky7nz.m3u8?md5=KWzdQkzq-goO8FnoDHoXYQ&expires=1774097050"
+      "url": "https://n7.sanwalyaarpya.com:1686/hls/sky7nz.m3u8?md5=EEoGPX9XCUDusOgoEkzzdw&expires=1774098090"
     },
     {
       "tvg-id": "sky8nz",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png",
       "name": " Sky Sport 8 NZ",
-      "url": "https://n8.sanwalyaarpya.com:1686/hls/sky8nz.m3u8?md5=W2YndVtn0ga1mWzrXcVFJA&expires=1774097050"
+      "url": "https://n4.sanwalyaarpya.com:1686/hls/sky8nz.m3u8?md5=OjheZvHX0j-LTPlNXMqKTg&expires=1774098090"
     },
     {
       "tvg-id": "laligauk",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/19-by-xfireflix.png",
       "name": "LaLiga UK",
-      "url": "https://n9.sanwalyaarpya.com:1686/hls/laligauk.m3u8?md5=sSc-IZeUUE9LYOIA937vPQ&expires=1774097050"
+      "url": "https://n14.sanwalyaarpya.com:1686/hls/laligauk.m3u8?md5=WQB2AHa7OP5X2kc5cRHQwQ&expires=1774098091"
     },
     {
       "tvg-id": "skysfotb",
       "tvg-logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/44-by-xfireflix.png",
       "name": " Sky Sports Football",
-      "url": "https://n8.sanwalyaarpya.com:1686/hls/skysfott.m3u8?md5=-vrN7Y_xN1PoxJg6ETMaww&expires=1774097050"
+      "url": "https://n8.sanwalyaarpya.com:1686/hls/skysfott.m3u8?md5=5jfQ9-_Hky0F8V-UvGuXrQ&expires=1774098090"
     },
     {
       "tvg-id": "hdchnl2",

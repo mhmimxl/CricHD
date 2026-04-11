@@ -4,63 +4,63 @@
 #VERSION: 1.0.0
 #DEVELOPER: @sultanarabi 161 —  credit: Toufik bro@
 #COUNTRY: Bangladesh
-#LAST-UPDATE-UTC: 2026-04-11T12:03:28.951676+00:00
-#LAST-UPDATE-BD: 2026-04-11 12:03:28 UTC
+#LAST-UPDATE-UTC: 2026-04-11T13:20:50.285621+00:00
+#LAST-UPDATE-BD: 2026-04-11 13:20:50 UTC
 #TOTAL-CHANNELS: 28
 
 #EXTINF:-1 tvg-id="ptvpk" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/20-by-xfireflix.png", PTV Sports
-https://n5.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=aK6S7w6h8gsoPmaSD-_aLw&expires=1775913786
+https://n5.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=5K81vhTLXr0154iQQTrMfA&expires=1775918427
 #EXTINF:-1 tvg-id="sonyten1" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1000173192-modified.png", Tony Sports 1
-https://n5.zohanayaan.com:1686/hls/ten1hd.m3u8?md5=tpHy0D6WUsGETgOpXa8Kjg&expires=1775913787
+https://n3.zohanayaan.com:1686/hls/ten1hd.m3u8?md5=-nrjX3HnpiFu8tS3tUAQLw&expires=1775918427
 #EXTINF:-1 tvg-id="willowusa" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/38-by-xfireflix.png", Willow Cricket
-https://n5.zohanayaan.com:1686/hls/willowusa.m3u8?md5=ckPyyz-B5wHz7G7T-Oe94A&expires=1775913786
+https://n3.zohanayaan.com:1686/hls/willowusa.m3u8?md5=wRlST7gj1nSxO4E2I27EEg&expires=1775918427
 #EXTINF:-1 tvg-id="tensp" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/10-by-xfireflix.png", Ten Sports PK
-https://n5.zohanayaan.com:1686/hls/tenspk.m3u8?md5=4Sch8a1eT8i3daJOriL4Vw&expires=1775913788
+https://n3.zohanayaan.com:1686/hls/tenspk.m3u8?md5=fAGRyQRhoOao5cx2V6jj4Q&expires=1775918427
 #EXTINF:-1 tvg-id="asportshd" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/12-by-xfireflix.png", A Sports HD
-https://n5.zohanayaan.com:1686/hls/asportshd.m3u8?md5=i_rbyWRo2yWb42fDl5qF_Q&expires=1775913788
+https://n5.zohanayaan.com:1686/hls/asportshd.m3u8?md5=HATL9SoXbBFthsy9VHC5HQ&expires=1775918427
 #EXTINF:-1 tvg-id="tonymax" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1000173192-modified.png", Tony Sports 3
-https://n5.zohanayaan.com:1686/hls/sonyespnind.m3u8?md5=ydpWkz3vfc1c84M5541k7A&expires=1775913787
+https://n4.zohanayaan.com:1686/hls/sonyespnind.m3u8?md5=scXJWXSPzGLR1QOhwEL6zQ&expires=1775918427
 #EXTINF:-1 tvg-id="sscricket" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/34-by-xfireflix.png", Super Cricket
-https://n5.zohanayaan.com:1686/hls/supercricket.m3u8?md5=bcrONikvOnwmi-of9noA6g&expires=1775913787
+https://n2.zohanayaan.com:1686/hls/supercricket.m3u8?md5=9yLJv2l999w5qvwOHD7_5w&expires=1775918427
 #EXTINF:-1 tvg-id="skys2" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/9-by-xfireflix.png", Sky Sports Cricket
-https://n5.zohanayaan.com:1686/hls/skyscric.m3u8?md5=AfssyT32FUZIPDfge1mhOw&expires=1775913788
+https://n4.zohanayaan.com:1686/hls/skyscric.m3u8?md5=KfX9pw6x6VUTushlmUks4A&expires=1775918427
 #EXTINF:-1 tvg-id="btsp4" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png", BT Sports 4
-https://n5.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=vO01WLrHEFzMFPipBmsv0g&expires=1775913788
+https://n3.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=W7NhBI34MFTRTMAkMgfu4A&expires=1775918427
 #EXTINF:-1 tvg-id="btsp3" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png", BT Sports 3
-https://n5.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=JaF2kgA2iVq-fYncxHXbmQ&expires=1775913788
+https://n2.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=OJF_nEH3AqBpxg-GDRH6tw&expires=1775918427
 #EXTINF:-1 tvg-id="btsp1" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png", BT Sports 1
-https://n5.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=1Y9BaNj2JR85otHwxMPjiA&expires=1775913789
+https://n2.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=QB-xp-1nY-ZyWqPlpZVMRA&expires=1775918427
 #EXTINF:-1 tvg-id="btsp2" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png", BT Sports 2
-https://n5.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=FRG747yMr0fexPcAe-xIEw&expires=1775913787
+https://n3.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=bPoH-53zRQGe79_YwILgEQ&expires=1775918428
 #EXTINF:-1 tvg-id="fox501" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/6-by-xfireflix.png", FOX Cricket 501
-https://n5.zohanayaan.com:1686/hls/fox501.m3u8?md5=VFAR5lO0SsCh1321Cm_wKw&expires=1775913787
+https://n5.zohanayaan.com:1686/hls/fox501.m3u8?md5=8RdgxPvQW3Sc85dQO6m6IA&expires=1775918427
 #EXTINF:-1 tvg-id="skys1" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/18-by-xfireflix.png", Sky Sports Main Event
-https://n5.zohanayaan.com:1686/hls/skysme.m3u8?md5=LNAz4IvygMnsYBx9R6X1HA&expires=1775913787
+https://n4.zohanayaan.com:1686/hls/skysme.m3u8?md5=dAlm-9n3m_c4S9b7JAsiAw&expires=1775918427
 #EXTINF:-1 tvg-id="viasp1" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/31-by-xfireflix.png", Via Play Sports 1
-https://n5.zohanayaan.com:1686/hls/premieruk.m3u8?md5=UkRrTqJHRmA1r9wqOg3iag&expires=1775913786
+https://n4.zohanayaan.com:1686/hls/premieruk.m3u8?md5=g7HviLNizDhBVKFxGxQGkg&expires=1775918427
 #EXTINF:-1 tvg-id="btsp5" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png", BT Sports 5
-https://n5.zohanayaan.com:1686/hls/hdchnl10.m3u8?md5=lrrACU3zNPnHiuAjLuYtZA&expires=1775913787
+https://n3.zohanayaan.com:1686/hls/hdchnl10.m3u8?md5=gdN_oLwZ6P17xGt59_M4qg&expires=1775918427
 #EXTINF:-1 tvg-id="tara" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/16-by-xfireflix.png",  Tara Sports 1
-https://n5.zohanayaan.com:1686/hls/star1in.m3u8?md5=Fh283xEl2l6Io98Igub-Bw&expires=1775913788
+https://n3.zohanayaan.com:1686/hls/star1in.m3u8?md5=0ouWhiirWNrVcVp0Iq85ww&expires=1775918427
 #EXTINF:-1 tvg-id="tara1hi" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1-by-xfireflix.png",  Tara Sports Hindi
-https://n5.zohanayaan.com:1686/hls/starhindi.m3u8?md5=Rb6NIGxDVjjjSSUFaoYXSA&expires=1775913788
+https://n2.zohanayaan.com:1686/hls/starhindi.m3u8?md5=mrUP5qSN93lVC8fT7qArZg&expires=1775918427
 #EXTINF:-1 tvg-id="sky1nz" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png",  Sky Sport 1 NZ
-https://n5.zohanayaan.com:1686/hls/sky1nz.m3u8?md5=EXJofNKV3K-6rSv3DgXDIg&expires=1775913787
+https://n4.zohanayaan.com:1686/hls/sky1nz.m3u8?md5=Ypf_evoLZCTsKkGjsUiYqA&expires=1775918428
 #EXTINF:-1 tvg-id="sky2nz" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png",  Sky Sport 2 NZ
-https://n5.zohanayaan.com:1686/hls/sky2nz.m3u8?md5=M43fsyraz4XvPMZ5v1zYyA&expires=1775913788
+https://n3.zohanayaan.com:1686/hls/sky2nz.m3u8?md5=wn7MhihouIQQ80753l4wpA&expires=1775918429
 #EXTINF:-1 tvg-id="sky3nz" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png",  Sky Sport 3 NZ
-https://n5.zohanayaan.com:1686/hls/sky3nz.m3u8?md5=eA8CFixoQXce601P4eOUaQ&expires=1775913787
+https://n5.zohanayaan.com:1686/hls/sky3nz.m3u8?md5=ssRorv2hCvKBpy2QC5prFQ&expires=1775918427
 #EXTINF:-1 tvg-id="sky4nz" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png",  Sky Sport 4 NZ
-https://n5.zohanayaan.com:1686/hls/sky4nz.m3u8?md5=8MPuOdo1Nm3ZOjlkfgSGxw&expires=1775913789
+https://n3.zohanayaan.com:1686/hls/sky4nz.m3u8?md5=kIdKoKA0LK2do6DyBJ-p0w&expires=1775918427
 #EXTINF:-1 tvg-id="sky5nz" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png",  Sky Sport 5 NZ
-https://n5.zohanayaan.com:1686/hls/sky5nz.m3u8?md5=_eWTcp7aN321qpVRaxZTzA&expires=1775913787
+https://n3.zohanayaan.com:1686/hls/sky5nz.m3u8?md5=CM2zLnBZfN6m-LFLDAXOlw&expires=1775918429
 #EXTINF:-1 tvg-id="sky6nz" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png",  Sky Sport 6 NZ
-https://n5.zohanayaan.com:1686/hls/sky6nz.m3u8?md5=p_qFcJTvpxwujTm8xiJl3g&expires=1775913787
+https://n3.zohanayaan.com:1686/hls/sky6nz.m3u8?md5=bHBmXsDM0YiLx6TutOyy1g&expires=1775918427
 #EXTINF:-1 tvg-id="sky7nz" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png",  Sky Sport 7 NZ
-https://n5.zohanayaan.com:1686/hls/sky7nz.m3u8?md5=esH7oabsW9LEfOwhwXoqYg&expires=1775913787
+https://n5.zohanayaan.com:1686/hls/sky7nz.m3u8?md5=dTpzJEbT-sc_mx4ejSPcxA&expires=1775918427
 #EXTINF:-1 tvg-id="sky8nz" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png",  Sky Sport 8 NZ
-https://n5.zohanayaan.com:1686/hls/sky8nz.m3u8?md5=yxwqHlSI3lxkbtv3A7YCsw&expires=1775913788
+https://n4.zohanayaan.com:1686/hls/sky8nz.m3u8?md5=3EcjV3ip3-6ik1Obo08grA&expires=1775918427
 #EXTINF:-1 tvg-id="laligauk" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/19-by-xfireflix.png", LaLiga UK
-https://n5.zohanayaan.com:1686/hls/laligauk.m3u8?md5=Iykf3a1DyhYz0ESiUNxcQw&expires=1775913789
+https://n2.zohanayaan.com:1686/hls/laligauk.m3u8?md5=RERyOpfHN8k9IWvM-Y9mtw&expires=1775918428
 #EXTINF:-1 tvg-id="skysfotb" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/44-by-xfireflix.png",  Sky Sports Football
-https://n5.zohanayaan.com:1686/hls/skysfott.m3u8?md5=0hZH2E-Kg2YOaue7HsH0WA&expires=1775913788
+https://n3.zohanayaan.com:1686/hls/skysfott.m3u8?md5=wI98iiC5sDH9Dl4b5fGDVw&expires=1775918427
